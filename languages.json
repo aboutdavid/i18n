@@ -1,6 +1,11 @@
 {
   "languages": [
     {
+      "english": "Spanish",
+      "native": "Español",
+      "filename": "es.json"
+    },
+    {
       "english": "Japanese",
       "native": "日本語",
       "filename": "jp.json"
