@@ -5,8 +5,8 @@ Supported languages:
 - Spanish (Español)
 - Japanese (日本語)
 - French (français)
-- 
-Planned languages:
 - Chinese (中国人)
+
+Planned languages:
 - Korean (한국어)
 - Finnish (suomalainen)
