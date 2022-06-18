@@ -1,5 +1,6 @@
 # i18n
 Translations for aboutdavid.me (i18n.aboutdavid.me)
+
 Supported languages:
 - English (by default)
 - Spanish (Español)
